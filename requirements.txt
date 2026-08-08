@@ -3,11 +3,6 @@ uvicorn
 mlflow
 scikit-learn
 pandas
-numpy
-pydantic
+skops
 pytest
-
-httpx2
-
-pytest==9.1.1
 httpx2
